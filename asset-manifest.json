@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Al-film/static/css/main.fec5d004.css",
+    "main.js": "/Al-film/static/js/main.65522130.js",
+    "index.html": "/Al-film/index.html",
+    "main.fec5d004.css.map": "/Al-film/static/css/main.fec5d004.css.map",
+    "main.65522130.js.map": "/Al-film/static/js/main.65522130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec5d004.css",
+    "static/js/main.65522130.js"
+  ]
+}
